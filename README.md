@@ -25,3 +25,9 @@ G-97RG6M and G-97RG3 Remote Command Execution
 
 ![image](https://user-images.githubusercontent.com/96364879/146667954-a3c68657-8dd4-4948-b99d-0e1b135d662e.png)
 ![image](https://user-images.githubusercontent.com/96364879/146667957-71e97587-0c0d-428d-b2a5-58fc587786ef.png)
+
+# Video
+
+
+https://user-images.githubusercontent.com/96364879/146670183-77384f27-27db-4cf4-b84e-efdcc610bd74.mp4
+
